@@ -4,7 +4,7 @@ Este repositório guarda as informações da monitoria estruturada onde foi norm
 
 ## Exercício
 
-Para realizar o exercício de normalização, utilize as tabelas continas nessa [planilha Excel](https://docs.google.com/spreadsheets/d/1ksGbvhqUaHpvy4CSc-ODec-d5dNL-4hhWJodCNy0KJ0/edit?usp=sharing).
+Para realizar o exercício de normalização, utilize as tabelas presentes nessa [planilha Excel](https://docs.google.com/spreadsheets/d/1ksGbvhqUaHpvy4CSc-ODec-d5dNL-4hhWJodCNy0KJ0/edit?usp=sharing).
 
 Faça a normalização dos dados seguindos as formas normais descritas abaixo. Crie um esboço de como seriam estruturadas as entidades do banco de dados e os atributos pertencentes a cada uma delas.
 
